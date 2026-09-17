@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tekvora
+# Draway
 
 ### Engineering software for businesses.
 
@@ -8,15 +8,15 @@ We build modern web applications, mobile apps, cloud platforms, enterprise syste
 
 <p>
 
-<a href="https://www.tekvora.co.in">
-<img src="https://img.shields.io/badge/Website-tekvora.co.in-black?style=for-the-badge&logo=googlechrome"/>
+<a href="https://draway.in">
+<img src="https://img.shields.io/badge/Website-draway.in-black?style=for-the-badge&logo=googlechrome"/>
 </a>
 
-<a href="mailto:info@tekvora.co.in">
-<img src="https://img.shields.io/badge/Email-info@tekvora.co.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:info@draway.in">
+<img src="https://img.shields.io/badge/Email-info@draway.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/company/tekvora">
+<a href="https://www.linkedin.com/company/draway">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -28,7 +28,7 @@ We build modern web applications, mobile apps, cloud platforms, enterprise syste
 
 ## About
 
-Tekvora is a software engineering company focused on building reliable digital products for startups, businesses, and enterprises.
+Draway is a software engineering company focused on building reliable digital products for startups, businesses, and enterprises.
 
 From MVPs to production-scale platforms, we partner with teams to design, build, deploy, and maintain software that is fast, scalable, and built to last.
 
@@ -36,15 +36,15 @@ From MVPs to production-scale platforms, we partner with teams to design, build,
 
 ## What We Build
 
-- Enterprise Software
-- SaaS Platforms
-- School ERP Systems
-- CRM & Business Management Systems
-- Mobile Applications
-- Cloud Infrastructure
-- AI & Automation Solutions
-- Internal Business Tools
-- APIs & Backend Systems
+* Enterprise Software
+* SaaS Platforms
+* School ERP Systems
+* CRM & Business Management Systems
+* Mobile Applications
+* Cloud Infrastructure
+* AI & Automation Solutions
+* Internal Business Tools
+* APIs & Backend Systems
 
 ---
 
@@ -64,11 +64,11 @@ Docker • AWS • Google Cloud • Linux
 
 ## Engineering Principles
 
-- Build maintainable software.
-- Automate repetitive work.
-- Keep systems simple.
-- Prioritize performance and reliability.
-- Design for scale.
+* Build maintainable software.
+* Automate repetitive work.
+* Keep systems simple.
+* Prioritize performance and reliability.
+* Design for scale.
 
 ---
 
@@ -76,7 +76,7 @@ Docker • AWS • Google Cloud • Linux
 
 We believe in contributing back to the developer community.
 
-As Tekvora grows, we'll continue publishing internal tools, libraries, templates, and open-source projects through this organization.
+As Draway grows, we'll continue publishing internal tools, libraries, templates, and open-source projects through this organization.
 
 ---
 
@@ -84,7 +84,7 @@ As Tekvora grows, we'll continue publishing internal tools, libraries, templates
 
 We're always interested in meeting engineers who enjoy solving challenging problems and building quality software.
 
-📧 **careers@tekvora.co.in**
+📧 **[careers@draway.in](mailto:careers@draway.in)**
 
 ---
 
@@ -92,11 +92,11 @@ We're always interested in meeting engineers who enjoy solving challenging probl
 
 **Website**
 
-https://www.tekvora.co.in
+https://draway.in
 
 **Email**
 
-info@tekvora.co.in
+[info@draway.in](mailto:info@draway.in)
 
 ---
 
